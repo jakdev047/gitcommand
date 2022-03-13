@@ -38,6 +38,18 @@ git add .
 git commit -am "valid message"
 ```
 
+####  Show define work
+
+```jsx
+git show 62cf56a
+```
+
+####  Previous stage
+
+```jsx
+git checkout 62cf56a
+```
+
 ####  Log check
 
 ```jsx
@@ -45,5 +57,5 @@ git log
 ```
 
 ```jsx
-git log --online
+git log --oneline
 ```
