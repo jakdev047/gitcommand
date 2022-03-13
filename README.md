@@ -38,6 +38,18 @@ git add .
 git commit -am "valid message"
 ```
 
+```jsx
+git remote add origin https://github.com/jakdev047/gitcommand.git
+```
+
+```jsx
+git branch -M main
+```
+
+```jsx
+git push -u origin main
+```
+
 ####  Show define work
 
 ```jsx
@@ -54,6 +66,12 @@ git checkout 62cf56a
 
 ```jsx
 git switch -
+```
+
+####  Reset stage
+
+```jsx
+git reset
 ```
 
 ####  Log check
