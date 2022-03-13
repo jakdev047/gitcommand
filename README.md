@@ -50,6 +50,12 @@ git show 62cf56a
 git checkout 62cf56a
 ```
 
+####  Current stage
+
+```jsx
+git switch -
+```
+
 ####  Log check
 
 ```jsx
