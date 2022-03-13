@@ -1,17 +1,17 @@
 # Git Command
 
-### Version Check
-
-git --version
-
-### Configure git
+#### Version Check
 
 ```jsx
-git config user.name “jakdev047” 
-
-git config user.email  “jakfreelancer047@gmail.com” 
+git --version
 ```
 
+#### Configure git
 
+```jsx
+git config user.name "jakdev047" 
+```
 
-
+```jsx
+git config user.email  "jakfreelancer047@gmail.com" 
+```
