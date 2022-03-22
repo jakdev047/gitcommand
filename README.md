@@ -83,3 +83,17 @@ git log
 ```jsx
 git log --oneline
 ```
+
+####  Branch
+
+```jsx
+git branch
+```
+
+```jsx
+git branch development
+```
+
+```jsx
+git checkout development
+```
