@@ -97,3 +97,8 @@ git branch development
 ```jsx
 git checkout development
 ```
+
+```jsx
+git push --set-upstream origin development
+```
+
