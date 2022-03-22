@@ -102,3 +102,12 @@ git checkout development
 git push --set-upstream origin development
 ```
 
+####  Merge
+
+```jsx
+git checkout main
+```
+
+```jsx
+git merge development
+```
