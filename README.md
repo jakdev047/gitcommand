@@ -111,3 +111,9 @@ git checkout main
 ```jsx
 git merge development
 ```
+
+```jsx
+git add .
+git commit -am "development merge"
+git push
+```
