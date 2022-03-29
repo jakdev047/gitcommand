@@ -105,15 +105,10 @@ git push --set-upstream origin development
 ####  Merge
 
 ```jsx
-git checkout main
-```
+git checkout development
+git merge dev-jubayer
 
-```jsx
-git merge development
-```
-
-```jsx
 git add .
-git commit -am "development merge"
+git commit -am “dev-jubayer merge”
 git push
 ```
