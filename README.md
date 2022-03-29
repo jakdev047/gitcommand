@@ -117,3 +117,13 @@ git add .
 git commit -am “dev-jubayer merge”
 git push
 ```
+
+```jsx
+git checkout main
+git merge development
+
+git add .
+git commit -am “development merge”
+git push
+
+```
