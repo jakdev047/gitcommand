@@ -105,6 +105,11 @@ git push --set-upstream origin development
 ####  Merge
 
 ```jsx
+git checkout dev-jubayer
+git pull
+```
+
+```jsx
 git checkout development
 git merge dev-jubayer
 
